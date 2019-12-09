@@ -7,7 +7,7 @@ import java.net.URLEncoder;
 
 public class Http {
     private static final String BASE_URL = "https://translation.googleapis.com/language/translate/v2?";
-    private static final String KEY = "AIzaSyDcknr29cWTgwqo8-nwYpYrbdSLocKVnko";
+    private static final String KEY = "YOUR KEY HERE";
 
 
     private static AsyncHttpClient client = new AsyncHttpClient();
